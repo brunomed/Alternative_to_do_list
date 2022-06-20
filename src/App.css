@@ -6,7 +6,7 @@
       'Lucida Sans', Arial, sans-serif;
   }
   body {
-    background-image: url("C:/Windows/System32/react-todo-app/src/assets/fundoprincipal.jpg");
+    background-image: url("./assets/fundoprincipal.jpg");
     background-repeat: no-repeat;
     background-size: 1800px;
     background-position: center;
